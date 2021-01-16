@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "ts-node --transpile-only index.ts"
+  },
+  "name": "flood-phish",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cheapsteak/flood-phish.git",
+  "author": "Chang Wang",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "2.6.1",
+    "ts-node": "9.1.1",
+    "typescript": "4.1.3"
+  }
+}
